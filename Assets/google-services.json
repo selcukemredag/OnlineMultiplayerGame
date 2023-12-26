@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "926687783783",
+    "firebase_url": "https://zombieonlinemultiplayergame-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "zombieonlinemultiplayergame",
+    "storage_bucket": "zombieonlinemultiplayergame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926687783783:android:e9f07bd8f0237aec69ddc2",
+        "android_client_info": {
+          "package_name": "com.ROGDelsin.OnlineMultiplayerGame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926687783783-84i1bds4n9k54rka1mvjr3ad26m7ftsm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ROGDelsin.OnlineMultiplayerGame",
+            "certificate_hash": "2d37bfa864d08cfa99e64e624d80641b13c26c46"
+          }
+        },
+        {
+          "client_id": "926687783783-4l43t6s1n0bluhn10lgsdud54qe75461.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCombXPWExhAF_xFLom5W2lHwKI--rUbiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926687783783-4l43t6s1n0bluhn10lgsdud54qe75461.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

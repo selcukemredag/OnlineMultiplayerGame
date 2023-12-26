@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://zombieonlinemultiplayergame-default-rtdb.europe-west1.firebasedatabase.app</string>
+  <string name="gcm_defaultSenderId" translatable="false">926687783783</string>
+  <string name="google_storage_bucket" translatable="false">zombieonlinemultiplayergame.appspot.com</string>
+  <string name="project_id" translatable="false">zombieonlinemultiplayergame</string>
+  <string name="google_api_key" translatable="false">AIzaSyCombXPWExhAF_xFLom5W2lHwKI--rUbiA</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCombXPWExhAF_xFLom5W2lHwKI--rUbiA</string>
+  <string name="google_app_id" translatable="false">1:926687783783:android:e9f07bd8f0237aec69ddc2</string>
+  <string name="default_android_client_id" translatable="false">926687783783-84i1bds4n9k54rka1mvjr3ad26m7ftsm.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">926687783783-4l43t6s1n0bluhn10lgsdud54qe75461.apps.googleusercontent.com</string>
+</resources>
