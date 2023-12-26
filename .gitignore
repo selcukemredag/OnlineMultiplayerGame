@@ -64,7 +64,3 @@ node_modules/
 
 # dotenv environment variables file
 .env
-
-# Ignore a Firebase App bundle file
-Assets/Firebase/Plugins/x86_64/FirebaseCppApp-11_6_0.bundle
-Assets/Firebase/Plugins/x86_64/FirebaseCppApp-11_6_0.bundle.meta
